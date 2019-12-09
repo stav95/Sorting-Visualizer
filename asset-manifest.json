@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Pathfinding-Visualizer/static/css/main.74059707.chunk.css",
-    "main.js": "/Pathfinding-Visualizer/static/js/main.7266d5cd.chunk.js",
-    "main.js.map": "/Pathfinding-Visualizer/static/js/main.7266d5cd.chunk.js.map",
-    "runtime-main.js": "/Pathfinding-Visualizer/static/js/runtime-main.87f3cc17.js",
-    "runtime-main.js.map": "/Pathfinding-Visualizer/static/js/runtime-main.87f3cc17.js.map",
-    "static/js/2.d3df31d9.chunk.js": "/Pathfinding-Visualizer/static/js/2.d3df31d9.chunk.js",
-    "static/js/2.d3df31d9.chunk.js.map": "/Pathfinding-Visualizer/static/js/2.d3df31d9.chunk.js.map",
-    "index.html": "/Pathfinding-Visualizer/index.html",
-    "precache-manifest.3b1328c4b8f6b4cdbc9f184af235c0e3.js": "/Pathfinding-Visualizer/precache-manifest.3b1328c4b8f6b4cdbc9f184af235c0e3.js",
-    "service-worker.js": "/Pathfinding-Visualizer/service-worker.js",
-    "static/css/main.74059707.chunk.css.map": "/Pathfinding-Visualizer/static/css/main.74059707.chunk.css.map",
-    "static/js/2.d3df31d9.chunk.js.LICENSE": "/Pathfinding-Visualizer/static/js/2.d3df31d9.chunk.js.LICENSE",
-    "static/media/logo.svg": "/Pathfinding-Visualizer/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Sorting-Visualizer/static/css/main.e45d6271.chunk.css",
+    "main.js": "/Sorting-Visualizer/static/js/main.84a31e91.chunk.js",
+    "main.js.map": "/Sorting-Visualizer/static/js/main.84a31e91.chunk.js.map",
+    "runtime-main.js": "/Sorting-Visualizer/static/js/runtime-main.a3405e3a.js",
+    "runtime-main.js.map": "/Sorting-Visualizer/static/js/runtime-main.a3405e3a.js.map",
+    "static/css/2.6d7d54d2.chunk.css": "/Sorting-Visualizer/static/css/2.6d7d54d2.chunk.css",
+    "static/js/2.33b7564f.chunk.js": "/Sorting-Visualizer/static/js/2.33b7564f.chunk.js",
+    "static/js/2.33b7564f.chunk.js.map": "/Sorting-Visualizer/static/js/2.33b7564f.chunk.js.map",
+    "index.html": "/Sorting-Visualizer/index.html",
+    "precache-manifest.21114c8fa10c7978606c306ee17d7e04.js": "/Sorting-Visualizer/precache-manifest.21114c8fa10c7978606c306ee17d7e04.js",
+    "service-worker.js": "/Sorting-Visualizer/service-worker.js",
+    "static/css/2.6d7d54d2.chunk.css.map": "/Sorting-Visualizer/static/css/2.6d7d54d2.chunk.css.map",
+    "static/css/main.e45d6271.chunk.css.map": "/Sorting-Visualizer/static/css/main.e45d6271.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.87f3cc17.js",
-    "static/js/2.d3df31d9.chunk.js",
-    "static/css/main.74059707.chunk.css",
-    "static/js/main.7266d5cd.chunk.js"
+    "static/js/runtime-main.a3405e3a.js",
+    "static/css/2.6d7d54d2.chunk.css",
+    "static/js/2.33b7564f.chunk.js",
+    "static/css/main.e45d6271.chunk.css",
+    "static/js/main.84a31e91.chunk.js"
   ]
 }
